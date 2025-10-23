@@ -1,0 +1,15 @@
+{
+  "lastUpdated": "2025-10-23T09:27:41Z",
+  "repositories": [
+    {
+      "url": "https://github.com/un-shayani/site",
+      "type": "site",
+      "addedAt": "2025-10-23T09:27:41Z"
+    },
+    {
+      "url": "https://github.com/un-shayani/data",
+      "type": "data",
+      "addedAt": "2025-10-23T09:27:41Z"
+    }
+  ]
+}
