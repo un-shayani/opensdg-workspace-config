@@ -18,6 +18,13 @@
         "admin"
       ],
       "expiresAt": null
+    },
+    {
+      "github": "test-username",
+      "roles": [
+        "editor"
+      ],
+      "expiresAt": null
     }
   ],
   "signature": "OYa2NiyN74v3jXflwmrU968V4jnK5\u002BmwHaVcB/7\u002Bao0dpuhFXRdVSFDixhlXyWkyOkHKX3WZmnQ2PDOQcqw2YyiPZaO6uBZQ2dZtw\u002BbxJYztvZQXzcD/mJtPL5/sCchqGSZGCv07YYcfKw1yO3B/DKh5k5xIHyDoL6i0jiz7\u002B2czloiGljEn3TlwFbLrNh4dYgOgg/1AUhO41U1MBvrvR189pLPgcExOfOaIgQSWrAHaUvW6YHL\u002BXGZwooWVwzIhw5VokzxnZg/2PC1v\u002B/iHB5JjJorXspuYF52DbIpFwcpvcBJ7nTL5e/QRsa95C8dOVj9VpnGNiF55TDcq2qqlIw=="
