@@ -1,0 +1,24 @@
+{
+  "version": "1.0",
+  "created": "2026-05-18T01:55:11Z",
+  "roles": [
+    {
+      "id": "admin",
+      "name": "Administrator"
+    },
+    {
+      "id": "editor",
+      "name": "Editor"
+    }
+  ],
+  "users": [
+    {
+      "github": "un-shayani",
+      "roles": [
+        "admin"
+      ],
+      "expiresAt": null
+    }
+  ],
+  "signature": "d0fnI6/5cllgkQ9QJL8tjlFxAqEtAA26TJgsfKS7H7SbHKR5Pa9FI7M8gt95ElVyZBn99pgCxfnshY9rXENczVZwRo\u002BfZ1V1NDqq5D6ZgR5WLmBIBJOpBLgpEVoc0zC0\u002BHy7ORBMOsGu2zSdc9GTy8rh/UngZkRRSBKS6ZN7r\u002BIrWO7\u002BD/LJfByuVKUcj5XAbTwX8spEmddVINuarI\u002BjI1NF5FNKPEzVKVU522RtgcjFbEjATecIaAbhUfZNw5MXAyLEkv9\u002B3saM\u002BfKJ6APQTGei9YbseFh4uqj7aKO0uZixOFpPVavXBTfd3x01jaIM2Zl/rrEJXM7mf/Qe0e5AVQ=="
+}

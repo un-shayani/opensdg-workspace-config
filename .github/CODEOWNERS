@@ -1,0 +1,3 @@
+# RBAC Configuration - Only repo owner can approve changes
+roles/ @un-shayani
+*.json @un-shayani
