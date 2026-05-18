@@ -1,0 +1,15 @@
+{
+  "lastUpdated": "2026-05-18T01:55:42Z",
+  "repositories": [
+    {
+      "url": "https://github.com/un-shayani/open-sdg-data",
+      "type": "data",
+      "addedAt": "2026-05-18T01:55:42Z"
+    },
+    {
+      "url": "https://github.com/un-shayani/open-sdg-site",
+      "type": "site",
+      "addedAt": "2026-05-18T01:55:42Z"
+    }
+  ]
+}
